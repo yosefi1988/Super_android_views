@@ -1,0 +1,16 @@
+git config --global http.proxy localhost:2470
+
+
+git remote add origin https://github.com/yosefi1988/Super_android_views.git
+
+git pull origin master --allow-unrelated-histories
+
+git push origin master
+git push -u origin master
+git push -u origin --all
+
+
+
+
+pull:
+git pull https://github.com/yosefi1988/Tubeless.git master
