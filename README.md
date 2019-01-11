@@ -7,10 +7,9 @@ creator sajjad yosefi 09123678522
 
 
 برای استفاده از این کتابخانه فایل زیر را به پروژه تون اضافه کنید 
-(import jar/aar module) 
-
 https://github.com/yosefi1988/Super_android_views/blob/master/superandroidcomponents-Library/superandroidcomponents-release.aar
 
+![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/1.png)
 
 بعد از اضافه کردن در 
 dependency
@@ -19,4 +18,8 @@ dependency
 
 سپس به راحتی از کامپوننت های اضافه شده استفاده کنید و خروجی زیر را ببینید
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/2.png)
+
+
+![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/3.png)
+
