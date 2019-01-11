@@ -1,1 +1,1 @@
-include ':app', ':superandroidcomponents'
+include ':app', ':superandroidcomponents', ':superandroidcomponents-Library'
