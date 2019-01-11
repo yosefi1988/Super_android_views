@@ -45,7 +45,12 @@ app:modeI="password_text"
 app:modeI="password_number"
 جایی که کاربر رمزی را فقط باید با عدد وارد کند
 
-
+برای مثال 
+    <ir.sajjadyosefi.superandroidcomponents.SuperEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        app:modeI="password_number" />
 
 ![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/2.png)
 
