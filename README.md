@@ -18,6 +18,35 @@ dependency
 
 سپس به راحتی از کامپوننت های اضافه شده استفاده کنید و خروجی زیر را ببینید
 
+در صفت اضافه شده می توانید انواع زیر را داشته باشید
+
+app:modeI="amount"
+برای مقادیری که به ریال قرار است دریافت شود از این نوع استفاده کنید
+
+app:modeI="number"
+جاهایی که قرار است فقط عدد وارد شود مانند سن فرد
+
+app:modeI="text" 
+متن معمولی
+
+app:modeI="card" 
+جایی که کاربر میخواهد شماره کارت بانکی وارد کند
+
+app:modeI="mobile" 
+شماره موبایل
+
+
+app:modeI="sheba" 
+هر جایی که کاربر می خواهد شماره شبا ی حساب بانکی خود را وارد کند
+
+app:modeI="password_text"
+جایی که کاربر میخواهد رمز به صورت متنی وارد کند
+
+app:modeI="password_number"
+جایی که کاربر رمزی را فقط باید با عدد وارد کند
+
+
+
 ![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/2.png)
 
 
