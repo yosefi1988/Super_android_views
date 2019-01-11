@@ -20,38 +20,55 @@ dependency
 
 در صفت اضافه شده می توانید انواع زیر را داشته باشید
 
+```xml
 app:modeI="amount"
+```
 برای مقادیری که به ریال قرار است دریافت شود از این نوع استفاده کنید
 
+```xml
 app:modeI="number"
+```
 جاهایی که قرار است فقط عدد وارد شود مانند سن فرد
 
+```xml
 app:modeI="text" 
+```
 متن معمولی
 
+```xml
 app:modeI="card" 
+```
 جایی که کاربر میخواهد شماره کارت بانکی وارد کند
 
+```xml
 app:modeI="mobile" 
+```
 شماره موبایل
 
-
+```xml
 app:modeI="sheba" 
+```
 هر جایی که کاربر می خواهد شماره شبا ی حساب بانکی خود را وارد کند
 
+```xml
 app:modeI="password_text"
+```
 جایی که کاربر میخواهد رمز به صورت متنی وارد کند
 
+```xml
 app:modeI="password_number"
+```
 جایی که کاربر رمزی را فقط باید با عدد وارد کند
 
-برای مثال 
+
+برای مثال
+```xml
     <ir.sajjadyosefi.superandroidcomponents.SuperEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
         app:modeI="password_number" />
-
+```
 ![alt text](https://raw.githubusercontent.com/yosefi1988/Super_android_views/master/app/src/main/res/drawable/2.png)
 
 
