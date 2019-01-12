@@ -18,6 +18,16 @@ dependency
 
 سپس به راحتی از کامپوننت های اضافه شده استفاده کنید و خروجی زیر را ببینید
 
+
+برای مثال
+```xml
+    <ir.sajjadyosefi.superandroidcomponents.SuperEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        app:modeI="password_number" />
+```
+
 در صفت اضافه شده می توانید انواع زیر را داشته باشید
 
 ```xml
